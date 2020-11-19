@@ -1,59 +1,36 @@
 # Note: to avoid repeating the same data multiple times,
 # identifiers (starting with "&") are referenced later (starting with "*")
 
-title: "My First Article"
+title: "Many faces on immigration"
 date: 2015-03-15T12:00:00Z
 doi: # e.g. 10.1234/example.1
-github: # e.g. user-name/paper-now
-
+github: oilervoss/PN_Immigration
 authors:
-  - &alice-exemplar
-    id: "alice-exemplar"
-    name: "Alice Exemplar"
+  - &clarice
+    id: "clarice"
+    name: "Clarice Quimmalin"
     email: "alice.exemplar@example.com"
-    url: http://example.com/authors/1
+    url: http://chick.alves.pro.br
     orcid: "0000-0002-9298-3168"
 
-  - &bob-exemplar
-    id: "bob-exemplar"
-    name: "Bob Exemplar"
-    orcid: "0000-0002-9341-7985"
+  - &euler
+    id: "euler"
+    name: "Euler Alves"
+    orcid: "0000-0002-6059-4555"
 
 affiliations:
-  - name: "Stanford University"
-    department: "Department of Mathematics"
-    location: "Stanford, California, USA"
-    url: http://mathematics.stanford.edu/
+  - name: "FPL Educacional"
+    department: "Mestrado Profissional em Administração"
+    location: "Pedro Leopoldo, Brazil"
+    url: http://www.fpl-edu.br/
     members:
-      - *alice-exemplar
-      - *bob-exemplar
+      - *euler
 
-  - name: "Harvard University"
-    department: "Department of Molecular and Cellular Biology"
-    location: "Cambridge, MA, USA"
+  - name: "FUMEC"
+    department: "Educação Física"
+    location: "Belo Horizonte, Brazil"
     members:
-      - *alice-exemplar
-
-funders:
-  - name: "Medical Research Council"
-    sameAs: "http://doi.org/10.13039/501100000265"
-    awards:
-      - name: MRC123
-        recipients:
-          - *alice-exemplar
-          - *bob-exemplar
-      - name: MRC456
-        recipients:
-          - *alice-exemplar
-          - *bob-exemplar
-
-  - name: "National Institutes of Health"
-    url: http://www.nih.gov/
-    sameAs: "http://doi.org/10.13039/100000002"
-    awards:
-      - name: NIH123
-        recipients:
-          - *alice-exemplar
+      - *clarice
 
 contributions:
   - name: "Methodology"
