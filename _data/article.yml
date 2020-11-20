@@ -9,13 +9,13 @@ authors:
   - &clarice
     id: "clarice"
     name: "Clarice Quimmalin"
-    email: "alice.exemplar@example.com"
-    url: http://chick.alves.pro.br
+    url: https://chick.alves.pro.br
     orcid: "0000-0001-8099-310X"
 
   - &euler
     id: "euler"
     name: "Euler Alves"
+    url: https://alves.pro.br
     orcid: "0000-0002-6059-4555"
 
 affiliations:
@@ -32,30 +32,3 @@ affiliations:
     members:
       - *clarice
 
-contributions:
-  - name: "Methodology"
-    url: http://dictionary.casrai.org/Contributor_Roles/Methodology
-    contributors:
-      - *alice-exemplar
-      - *bob-exemplar
-
-  - name: "Investigation"
-    url: http://dictionary.casrai.org/Contributor_Roles/Investigation
-    contributors:
-      - *alice-exemplar
-      - *bob-exemplar
-
-  - name: "Software"
-    url: http://dictionary.casrai.org/Contributor_Roles/Software
-    contributors:
-      - *bob-exemplar
-
-  - name: "Writing - original draft"
-    url: http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft
-    contributors:
-      - *alice-exemplar
-
-  - name: "Writing - review & editing"
-    url: http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_review_%26_editing
-    contributors:
-      - *bob-exemplar
