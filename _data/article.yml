@@ -9,13 +9,13 @@ authors:
   - &clarice
     id: "clarice"
     name: "Clarice Quimmalin"
-    url: https://chick.alves.pro.br
+    url: https://chick.alves.pro.br/
     orcid: "0000-0001-8099-310X"
 
   - &euler
     id: "euler"
     name: "Euler Alves"
-    url: https://alves.pro.br
+    url: https://alves.pro.br/
     orcid: "0000-0002-6059-4555"
 
 affiliations:
