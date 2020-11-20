@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4281631.svg)](https://doi.org/10.5281/zenodo.4281631)
+
 # Paper Now
 
 Create, edit and (optionally) display a journal article, entirely in GitHub.
@@ -6,10 +8,6 @@ In contrast to the more traditional process of `submit > peer review > publish` 
 
 ## Examples
 
-* [Searching for anthrax in the New York City subway metagenome](https://read-lab-confederation.github.io/nyc-subway-anthrax-study/)
-* [Collapse of the world's largest herbivores](http://git.macropus.org/collapse-largest-herbivores/)
-* [Evidence for embodied predictive coding: the anterior insula coordinates cortical processing of tactile deviancy](http://git.macropus.org/allen-insula/)
-* [Capsules of the diatom _Achnanthidium minutissimum_ arise from fibrillar precursors and foster attachment of bacteria](https://katrinleinweber.github.io/paper-now/)
 * [Paper Now example article](https://peerj.github.io/paper-now/)
 
 ## Instructions
